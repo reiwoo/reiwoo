@@ -1,8 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/125970440/220322681-9195df2a-8644-45f7-a68e-3017622f0701.png)]
 <h1 align="center">newbie programmer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiwoo&label=Profile%20views&color=0e75b6&style=flat" alt="reiwoo" /> </p>
 img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsung-jin-woo-solo-leveling-shadow-monarch-gif-25031358&psig=AOvVaw2w-voJLC-Nv9ueyPY1PgGK&ust=1677062181971000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjwp5mopv0CFQAAAAAdAAAAABAQ"
-[![MasterHead](https://user-images.githubusercontent.com/125970440/220322681-9195df2a-8644-45f7-a68e-3017622f0701.png))]
+
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **nothing**
