@@ -1,5 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/125970440/220322681-9195df2a-8644-45f7-a68e-3017622f0701.png)
-<h1 align="center">newbie programmer</h1>
+![MasterHead](https://user-images.githubusercontent.com/125970440/220322681-9195df2a-8644-45f7-a68e-3017622f0701.png](https://thumbs.gfycat.com/BaggyFrequentEsok-size_restricted.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiwoo&label=Profile%20views&color=0e75b6&style=flat" alt="reiwoo" /> </p>
 
